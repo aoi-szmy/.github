@@ -11,7 +11,7 @@
 - 中学生です
   - いろいろなことやってます
   - Linuxがすきです
-  - アイコンは -> https://picrew.me/share?cd=KDp0UsFvxM
+  - アイコンは -> https://picrew.me/share?cd=lseXk6yvzu
  
 ## 🎖 Badges
 <p align="center">
